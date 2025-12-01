@@ -6,6 +6,9 @@ This project is an interactive **Tableau Dashboard** created to analyze **Adidas
 The dashboard provides insights into total sales, profit, units sold, sales distribution across regions, product performance, and sales methods.
 
 ---
+## 📷 Dashboard Preview
+![Dashboard](Dashboard.jpeg)
+---
 
 ## 🗂️ Dashboard Contents
 
@@ -73,6 +76,7 @@ A preview image of the dashboard is included in this repository.
 1. Download and open the Tableau workbook in **Tableau Public** or **Tableau Desktop Public Edition**.  
 2. Use the filters to explore different segments of the data.  
 3. Hover over charts to view detailed tooltips.
+
 
 
 
