@@ -74,11 +74,6 @@ A preview image of the dashboard is included in this repository.
 2. Use the filters to explore different segments of the data.  
 3. Hover over charts to view detailed tooltips.
 
----
 
-## 📌 Notes
-- The dataset is used for educational and analytical purposes only.  
-- The project can be extended with forecasting, deeper profit analysis, or advanced drill-downs.
 
----
 
